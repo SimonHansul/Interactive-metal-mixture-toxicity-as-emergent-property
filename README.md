@@ -3,7 +3,7 @@
 ## Context & Purpose
 
 The code provided in this repository is developed to model and predict metal mixture toxicity to *Daphnia magna* populations in laboratory microcosms.
-See article published in (ET&C)[https://setac.onlinelibrary.wiley.com/doi/full/10.1002/etc.5176]. 
+See article published in [ET&C](https://setac.onlinelibrary.wiley.com/doi/full/10.1002/etc.5176). 
 
 ## Usage
 
